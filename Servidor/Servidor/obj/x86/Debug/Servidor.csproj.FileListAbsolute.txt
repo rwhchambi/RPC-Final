@@ -1,0 +1,14 @@
+c:\users\usuario\documents\visual studio 2010\Projects\Servidor\Servidor\bin\Debug\Servidor.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Servidor\Servidor\bin\Debug\Servidor.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\Servidor\Servidor\obj\x86\Debug\Servidor.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Servidor\Servidor\obj\x86\Debug\Servidor.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\Servidor\Servidor\obj\x86\Debug\Servidor.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2010\Projects\Servidor\Servidor\bin\Debug\ClsCalcular.dll
+c:\users\usuario\documents\visual studio 2010\Projects\Servidor\Servidor\bin\Debug\ClsCalcular.pdb
+C:\Users\Usuario\Desktop\rpc suma\Servidor\Servidor\obj\x86\Debug\Servidor.exe
+C:\Users\Usuario\Desktop\rpc suma\Servidor\Servidor\obj\x86\Debug\Servidor.pdb
+C:\Users\Usuario\Desktop\rpc suma\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\Usuario\Desktop\rpc suma\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Usuario\Desktop\rpc suma\Servidor\Servidor\bin\Debug\ClsCalcular.dll
+C:\Users\Usuario\Desktop\rpc suma\Servidor\Servidor\bin\Debug\ClsCalcular.pdb
+C:\Users\Usuario\Desktop\rpc suma\Servidor\Servidor\obj\x86\Debug\Servidor.csprojResolveAssemblyReference.cache

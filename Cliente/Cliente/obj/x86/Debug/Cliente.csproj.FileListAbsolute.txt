@@ -1,0 +1,20 @@
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Cliente\Cliente\bin\Debug\ClsCalcular.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Cliente\Cliente\bin\Debug\ClsCalcular.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Cliente\Cliente\obj\x86\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Cliente\Cliente\obj\x86\Debug\Cliente.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Cliente\Cliente\obj\x86\Debug\Cliente.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Cliente\Cliente\obj\x86\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Cliente\Cliente\obj\x86\Debug\Cliente.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Cliente\Cliente\obj\x86\Debug\Cliente.pdb
+C:\Users\Usuario\Desktop\rpc suma\Cliente\Cliente\obj\x86\Debug\Cliente.exe
+C:\Users\Usuario\Desktop\rpc suma\Cliente\Cliente\obj\x86\Debug\Cliente.pdb
+C:\Users\Usuario\Desktop\rpc suma\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\Usuario\Desktop\rpc suma\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Usuario\Desktop\rpc suma\Cliente\Cliente\bin\Debug\ClsCalcular.dll
+C:\Users\Usuario\Desktop\rpc suma\Cliente\Cliente\bin\Debug\ClsCalcular.pdb
+C:\Users\Usuario\Desktop\rpc suma\Cliente\Cliente\obj\x86\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\rpc suma\Cliente\Cliente\obj\x86\Debug\Cliente.Form1.resources
+C:\Users\Usuario\Desktop\rpc suma\Cliente\Cliente\obj\x86\Debug\Cliente.Properties.Resources.resources
+C:\Users\Usuario\Desktop\rpc suma\Cliente\Cliente\obj\x86\Debug\Cliente.csproj.GenerateResource.Cache

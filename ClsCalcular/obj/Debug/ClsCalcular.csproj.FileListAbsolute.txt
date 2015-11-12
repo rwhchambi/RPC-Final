@@ -1,0 +1,4 @@
+c:\users\usuario\documents\visual studio 2010\Projects\Servidor\ClsCalcular\bin\Debug\ClsCalcular.dll
+c:\users\usuario\documents\visual studio 2010\Projects\Servidor\ClsCalcular\bin\Debug\ClsCalcular.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\Servidor\ClsCalcular\obj\Debug\ClsCalcular.dll
+c:\users\usuario\documents\visual studio 2010\Projects\Servidor\ClsCalcular\obj\Debug\ClsCalcular.pdb
